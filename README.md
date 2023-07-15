@@ -1,24 +1,5 @@
-# README
+# Boilerplate
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To start the server you have to run ./bin/dev command. If you want to change some watcher you can modify the `Procfile.dev` en the root of the project. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Remember to run `bundle install` to get the right dependencies
